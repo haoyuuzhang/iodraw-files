@@ -152,8 +152,8 @@
         <mxCell id="toRdQbsCwu9v9kk40iDd-112" value="no" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="toRdQbsCwu9v9kk40iDd-140">
           <mxGeometry x="150" y="260" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="toRdQbsCwu9v9kk40iDd-144" value="服务单元层" style="swimlane;direction=north;startSize=30;" vertex="1" parent="toRdQbsCwu9v9kk40iDd-140">
-          <mxGeometry y="330" width="500" height="330" as="geometry" />
+        <mxCell id="toRdQbsCwu9v9kk40iDd-144" value="服务单元层" style="swimlane;direction=north;startSize=30;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="730" y="550" width="500" height="330" as="geometry" />
         </mxCell>
         <mxCell id="toRdQbsCwu9v9kk40iDd-146" value="机器层" style="swimlane;direction=north;startSize=30;" vertex="1" parent="toRdQbsCwu9v9kk40iDd-144">
           <mxGeometry y="210" width="500" height="120" as="geometry" />
