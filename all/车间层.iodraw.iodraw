@@ -153,7 +153,7 @@
           <mxGeometry x="150" y="260" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="toRdQbsCwu9v9kk40iDd-144" value="服务单元层" style="swimlane;direction=north;startSize=30;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="720" y="460" width="500" height="330" as="geometry" />
+          <mxGeometry x="150" y="490" width="500" height="180" as="geometry" />
         </mxCell>
         <mxCell id="toRdQbsCwu9v9kk40iDd-146" value="机器层" style="swimlane;direction=north;startSize=30;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="120" y="720" width="500" height="120" as="geometry" />
