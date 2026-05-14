@@ -144,7 +144,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="toRdQbsCwu9v9kk40iDd-140" value="车间层" style="swimlane;startSize=30;horizontal=1;containerType=tree;direction=north;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="150" y="130" width="500" height="680" as="geometry" />
+          <mxGeometry x="150" y="130" width="500" height="360" as="geometry" />
         </mxCell>
         <mxCell id="toRdQbsCwu9v9kk40iDd-105" value="拒绝新工件" style="rounded=1;whiteSpace=wrap;html=1;fontSize=8;fillColor=#D4D4D4;" vertex="1" parent="toRdQbsCwu9v9kk40iDd-140">
           <mxGeometry x="40" y="270" width="120" height="40" as="geometry" />
@@ -153,7 +153,7 @@
           <mxGeometry x="150" y="260" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="toRdQbsCwu9v9kk40iDd-144" value="服务单元层" style="swimlane;direction=north;startSize=30;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="827" y="530" width="500" height="330" as="geometry" />
+          <mxGeometry x="720" y="460" width="500" height="330" as="geometry" />
         </mxCell>
         <mxCell id="toRdQbsCwu9v9kk40iDd-146" value="机器层" style="swimlane;direction=north;startSize=30;" vertex="1" parent="toRdQbsCwu9v9kk40iDd-144">
           <mxGeometry y="210" width="500" height="120" as="geometry" />
