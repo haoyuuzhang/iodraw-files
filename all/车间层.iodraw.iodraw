@@ -100,6 +100,15 @@
         <mxCell id="toRdQbsCwu9v9kk40iDd-74" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="toRdQbsCwu9v9kk40iDd-71" target="toRdQbsCwu9v9kk40iDd-73">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="toRdQbsCwu9v9kk40iDd-81" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="toRdQbsCwu9v9kk40iDd-71">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="419.78947368421063" y="430" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="420" y="440" />
+              <mxPoint x="420" y="440" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
         <mxCell id="toRdQbsCwu9v9kk40iDd-71" value="更新车间计划" style="rounded=1;whiteSpace=wrap;html=1;fontSize=8;fillColor=#D4D4D4;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="360" y="380" width="120" height="40" as="geometry" />
         </mxCell>
@@ -122,7 +131,7 @@
           <mxGeometry x="460" y="250" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="toRdQbsCwu9v9kk40iDd-80" value="更新车间计划" style="rounded=1;whiteSpace=wrap;html=1;fontSize=8;fillColor=#D4D4D4;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="370" y="390" width="120" height="40" as="geometry" />
+          <mxGeometry x="360" y="440" width="120" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
