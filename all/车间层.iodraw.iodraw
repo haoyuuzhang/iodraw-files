@@ -76,9 +76,6 @@
         <mxCell id="toRdQbsCwu9v9kk40iDd-77" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="toRdQbsCwu9v9kk40iDd-73" target="toRdQbsCwu9v9kk40iDd-76">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="toRdQbsCwu9v9kk40iDd-73" value="停止准则" style="rhombus;whiteSpace=wrap;html=1;fontSize=8;fillColor=#F2F2F2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="520" y="260" width="120" height="40" as="geometry" />
-        </mxCell>
         <mxCell id="toRdQbsCwu9v9kk40iDd-76" value="停止" style="rounded=1;whiteSpace=wrap;html=1;fontSize=8;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="680" y="260" width="120" height="40" as="geometry" />
         </mxCell>
@@ -108,8 +105,8 @@
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="540" y="340" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="490" y="580" />
-              <mxPoint x="490" y="340" />
+              <mxPoint x="500" y="580" />
+              <mxPoint x="500" y="340" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -151,6 +148,9 @@
         </mxCell>
         <mxCell id="toRdQbsCwu9v9kk40iDd-112" value="no" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="toRdQbsCwu9v9kk40iDd-140">
           <mxGeometry x="150" y="260" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="toRdQbsCwu9v9kk40iDd-73" value="停止准则" style="rhombus;whiteSpace=wrap;html=1;fontSize=8;fillColor=#F2F2F2;" vertex="1" parent="toRdQbsCwu9v9kk40iDd-140">
+          <mxGeometry x="370" y="160" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="toRdQbsCwu9v9kk40iDd-144" value="服务单元层" style="swimlane;direction=north;startSize=30;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="150" y="490" width="500" height="180" as="geometry" />
