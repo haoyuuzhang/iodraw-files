@@ -24,9 +24,6 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="toRdQbsCwu9v9kk40iDd-84" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="toRdQbsCwu9v9kk40iDd-3" target="toRdQbsCwu9v9kk40iDd-9">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
         <mxCell id="toRdQbsCwu9v9kk40iDd-3" value="是否有新工件插入" style="rhombus;whiteSpace=wrap;html=1;fontSize=8;fillColor=#F2F2F2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="160" y="260" width="120" height="40" as="geometry" />
         </mxCell>
@@ -53,8 +50,11 @@
             </Array>
           </mxGeometry>
         </mxCell>
+        <mxCell id="toRdQbsCwu9v9kk40iDd-85" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="toRdQbsCwu9v9kk40iDd-59" target="toRdQbsCwu9v9kk40iDd-62">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="toRdQbsCwu9v9kk40iDd-59" value="yes" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="210" y="290" width="60" height="30" as="geometry" />
+          <mxGeometry x="260" y="290" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="toRdQbsCwu9v9kk40iDd-62" value="生成车间计划" style="rounded=1;whiteSpace=wrap;html=1;fontSize=8;fillColor=#D4D4D4;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="160" y="320" width="120" height="40" as="geometry" />
