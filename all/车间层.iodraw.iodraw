@@ -38,7 +38,7 @@
           <mxGeometry x="160" y="200" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="toRdQbsCwu9v9kk40iDd-59" value="yes" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="260" y="290" width="60" height="30" as="geometry" />
+          <mxGeometry x="210" y="290" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="toRdQbsCwu9v9kk40iDd-88" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="toRdQbsCwu9v9kk40iDd-62" target="toRdQbsCwu9v9kk40iDd-63">
           <mxGeometry relative="1" as="geometry" />
@@ -105,6 +105,12 @@
         </mxCell>
         <mxCell id="toRdQbsCwu9v9kk40iDd-83" value="新计划是否可行" style="rhombus;whiteSpace=wrap;html=1;fontSize=8;fillColor=#F2F2F2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="360" y="500" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="toRdQbsCwu9v9kk40iDd-93" value="no" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="310" y="490" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="toRdQbsCwu9v9kk40iDd-94" value="yes" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="420" y="530" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
