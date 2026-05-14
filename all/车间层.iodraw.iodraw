@@ -77,13 +77,10 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="toRdQbsCwu9v9kk40iDd-76" value="停止" style="rounded=1;whiteSpace=wrap;html=1;fontSize=8;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="670" y="260" width="120" height="40" as="geometry" />
+          <mxGeometry x="680" y="290" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="toRdQbsCwu9v9kk40iDd-78" value="no" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="570" y="230" width="60" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="toRdQbsCwu9v9kk40iDd-79" value="yes" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="630" y="250" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="toRdQbsCwu9v9kk40iDd-104" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="toRdQbsCwu9v9kk40iDd-102">
           <mxGeometry relative="1" as="geometry">
@@ -141,7 +138,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="toRdQbsCwu9v9kk40iDd-140" value="车间层" style="swimlane;startSize=30;horizontal=1;containerType=tree;direction=north;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="150" y="130" width="500" height="360" as="geometry" />
+          <mxGeometry x="150" y="130" width="510" height="360" as="geometry" />
         </mxCell>
         <mxCell id="toRdQbsCwu9v9kk40iDd-105" value="拒绝新工件" style="rounded=1;whiteSpace=wrap;html=1;fontSize=8;fillColor=#D4D4D4;" vertex="1" parent="toRdQbsCwu9v9kk40iDd-140">
           <mxGeometry x="40" y="250" width="120" height="40" as="geometry" />
@@ -151,6 +148,9 @@
         </mxCell>
         <mxCell id="toRdQbsCwu9v9kk40iDd-73" value="停止准则" style="rhombus;whiteSpace=wrap;html=1;fontSize=8;fillColor=#F2F2F2;" vertex="1" parent="toRdQbsCwu9v9kk40iDd-140">
           <mxGeometry x="350" y="160" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="toRdQbsCwu9v9kk40iDd-79" value="yes" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="toRdQbsCwu9v9kk40iDd-140">
+          <mxGeometry x="450" y="150" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="toRdQbsCwu9v9kk40iDd-144" value="服务单元层" style="swimlane;direction=north;startSize=30;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="150" y="490" width="500" height="180" as="geometry" />
