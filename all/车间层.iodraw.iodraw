@@ -144,6 +144,11 @@
         <mxCell id="toRdQbsCwu9v9kk40iDd-126" value="yes" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="400" y="590" width="60" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="toRdQbsCwu9v9kk40iDd-145" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="toRdQbsCwu9v9kk40iDd-129">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="229.71428571428578" y="520" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="toRdQbsCwu9v9kk40iDd-129" value="机器加工时间扰动" style="rounded=1;whiteSpace=wrap;html=1;fontSize=8;fillColor=#D4D4D4;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="170" y="720" width="120" height="40" as="geometry" />
         </mxCell>
