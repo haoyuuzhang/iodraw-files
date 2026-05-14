@@ -103,7 +103,7 @@
           <mxGeometry x="360" y="440" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="toRdQbsCwu9v9kk40iDd-95" value="更新服务单元计划" style="rounded=1;whiteSpace=wrap;html=1;fontSize=8;fillColor=#D4D4D4;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="360" y="560" width="120" height="40" as="geometry" />
+          <mxGeometry x="660" y="480" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="toRdQbsCwu9v9kk40iDd-99" value="单元内是否有机器故障" style="rhombus;whiteSpace=wrap;html=1;fontSize=8;fillColor=#F2F2F2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="360" y="500" width="120" height="40" as="geometry" />
