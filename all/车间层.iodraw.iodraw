@@ -112,8 +112,8 @@
         <mxCell id="toRdQbsCwu9v9kk40iDd-94" value="yes" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="420" y="530" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="toRdQbsCwu9v9kk40iDd-95" value="生成服务单元计划" style="rounded=1;whiteSpace=wrap;html=1;fontSize=8;fillColor=#D4D4D4;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="370" y="450" width="120" height="40" as="geometry" />
+        <mxCell id="toRdQbsCwu9v9kk40iDd-95" value="更新服务单元计划" style="rounded=1;whiteSpace=wrap;html=1;fontSize=8;fillColor=#D4D4D4;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="360" y="560" width="120" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
