@@ -88,8 +88,8 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="toRdQbsCwu9v9kk40iDd-68" value="yes" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="220" y="300" width="60" height="30" as="geometry" />
+        <mxCell id="toRdQbsCwu9v9kk40iDd-68" value="no" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="270" y="250" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
