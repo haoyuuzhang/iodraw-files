@@ -158,7 +158,7 @@
         <mxCell id="toRdQbsCwu9v9kk40iDd-144" value="服务单元层" style="swimlane;direction=west;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="150" y="460" width="500" height="230" as="geometry" />
         </mxCell>
-        <mxCell id="toRdQbsCwu9v9kk40iDd-146" value="Container" style="swimlane;direction=north;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="toRdQbsCwu9v9kk40iDd-146" value="机器层" style="swimlane;direction=west;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="150" y="690" width="500" height="200" as="geometry" />
         </mxCell>
       </root>
