@@ -149,9 +149,6 @@
             <mxPoint x="229.71428571428578" y="520" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="toRdQbsCwu9v9kk40iDd-129" value="机器加工时间扰动" style="rounded=1;whiteSpace=wrap;html=1;fontSize=8;fillColor=#D4D4D4;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="170" y="720" width="120" height="40" as="geometry" />
-        </mxCell>
         <mxCell id="toRdQbsCwu9v9kk40iDd-140" value="车间层" style="swimlane;startSize=20;horizontal=1;containerType=tree;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="150" y="110" width="500" height="350" as="geometry" />
         </mxCell>
@@ -160,6 +157,9 @@
         </mxCell>
         <mxCell id="toRdQbsCwu9v9kk40iDd-146" value="机器层" style="swimlane;direction=west;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="150" y="690" width="500" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="toRdQbsCwu9v9kk40iDd-129" value="机器加工时间扰动" style="rounded=1;whiteSpace=wrap;html=1;fontSize=8;fillColor=#D4D4D4;" vertex="1" parent="toRdQbsCwu9v9kk40iDd-146">
+          <mxGeometry x="70" y="30" width="120" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
