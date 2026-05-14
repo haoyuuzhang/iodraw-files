@@ -153,8 +153,8 @@
         <mxCell id="toRdQbsCwu9v9kk40iDd-140" value="Tree Container" style="swimlane;startSize=20;horizontal=1;containerType=tree;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="150" y="110" width="500" height="350" as="geometry" />
         </mxCell>
-        <mxCell id="toRdQbsCwu9v9kk40iDd-144" value="Container" style="swimlane;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="310" y="460" width="200" height="200" as="geometry" />
+        <mxCell id="toRdQbsCwu9v9kk40iDd-144" value="Container" style="swimlane;direction=west;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="80" y="670" width="200" height="200" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
