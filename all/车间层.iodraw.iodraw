@@ -149,8 +149,8 @@
         <mxCell id="toRdQbsCwu9v9kk40iDd-79" value="yes" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=10;" vertex="1" parent="toRdQbsCwu9v9kk40iDd-140">
           <mxGeometry x="430" y="180" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="toRdQbsCwu9v9kk40iDd-144" value="服务单元层" style="swimlane;direction=north;startSize=30;fontSize=10;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="120" y="490" width="510" height="180" as="geometry" />
+        <mxCell id="toRdQbsCwu9v9kk40iDd-144" value="服务单元层" style="swimlane;direction=north;startSize=50;fontSize=10;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="130" y="490" width="500" height="180" as="geometry" />
         </mxCell>
         <mxCell id="toRdQbsCwu9v9kk40iDd-121" value="no" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=10;" vertex="1" parent="toRdQbsCwu9v9kk40iDd-144">
           <mxGeometry x="300" y="65" width="60" height="30" as="geometry" />
