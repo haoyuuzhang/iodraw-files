@@ -57,6 +57,11 @@
         <mxCell id="toRdQbsCwu9v9kk40iDd-62" value="生成新计划" style="rounded=1;whiteSpace=wrap;html=1;fontSize=8;fillColor=#D4D4D4;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="160" y="320" width="120" height="40" as="geometry" />
         </mxCell>
+        <mxCell id="toRdQbsCwu9v9kk40iDd-65" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="toRdQbsCwu9v9kk40iDd-63">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="100" y="220" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="toRdQbsCwu9v9kk40iDd-63" value="新计划是否可行" style="rhombus;whiteSpace=wrap;html=1;fontSize=8;fillColor=#F2F2F2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="160" y="380" width="120" height="40" as="geometry" />
         </mxCell>
