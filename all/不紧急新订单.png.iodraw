@@ -115,6 +115,11 @@
         <mxCell id="vW3YrHtMuuvPs97gM53H-68" value="yes" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=10;" vertex="1" parent="toRdQbsCwu9v9kk40iDd-144">
           <mxGeometry x="250" y="110" width="40" height="15" as="geometry" />
         </mxCell>
+        <mxCell id="vW3YrHtMuuvPs97gM53H-71" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="toRdQbsCwu9v9kk40iDd-144" source="vW3YrHtMuuvPs97gM53H-69">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="330" y="-30" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="vW3YrHtMuuvPs97gM53H-69" value="no" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=10;" vertex="1" parent="toRdQbsCwu9v9kk40iDd-144">
           <mxGeometry x="310" y="80" width="20" height="10" as="geometry" />
         </mxCell>
