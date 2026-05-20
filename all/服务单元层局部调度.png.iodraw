@@ -26,7 +26,7 @@
         <mxCell id="toRdQbsCwu9v9kk40iDd-144" value="服务&#xa;单元层" style="swimlane;direction=north;startSize=30;fontSize=10;collapsible=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="150" y="490" width="480" height="180" as="geometry" />
         </mxCell>
-        <mxCell id="Mj-roduxuQckgtowwNDV-1" value="开始" style="rounded=1;whiteSpace=wrap;html=1;fontSize=10;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="toRdQbsCwu9v9kk40iDd-144">
+        <mxCell id="Mj-roduxuQckgtowwNDV-1" value="从车间层获取服务单元分配" style="rounded=1;whiteSpace=wrap;html=1;fontSize=10;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="toRdQbsCwu9v9kk40iDd-144">
           <mxGeometry x="40" y="10" width="120" height="40" as="geometry" />
         </mxCell>
       </root>
