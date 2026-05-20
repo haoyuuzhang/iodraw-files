@@ -24,10 +24,15 @@
           <mxGeometry x="340" y="620" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="toRdQbsCwu9v9kk40iDd-144" value="服务&#xa;单元层" style="swimlane;direction=north;startSize=30;fontSize=10;collapsible=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="150" y="490" width="480" height="180" as="geometry" />
+          <mxGeometry x="150" y="490" width="470" height="180" as="geometry" />
         </mxCell>
         <mxCell id="Mj-roduxuQckgtowwNDV-1" value="从车间层获取&lt;div&gt;服务单元分配&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=10;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="toRdQbsCwu9v9kk40iDd-144">
           <mxGeometry x="40" y="10" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Mj-roduxuQckgtowwNDV-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="toRdQbsCwu9v9kk40iDd-144" source="Mj-roduxuQckgtowwNDV-3">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="310" y="30.14285714285711" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="Mj-roduxuQckgtowwNDV-3" value="从机器层获取&lt;div&gt;加工时间扰动&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=10;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="toRdQbsCwu9v9kk40iDd-144">
           <mxGeometry x="340" y="10" width="120" height="40" as="geometry" />
