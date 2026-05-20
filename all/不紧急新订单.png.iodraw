@@ -97,8 +97,8 @@
         <mxCell id="toRdQbsCwu9v9kk40iDd-144" value="服务&#xa;单元层" style="swimlane;direction=north;startSize=30;fontSize=10;collapsible=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="150" y="430" width="480" height="240" as="geometry" />
         </mxCell>
-        <mxCell id="toRdQbsCwu9v9kk40iDd-121" value="no" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=10;" parent="toRdQbsCwu9v9kk40iDd-144" vertex="1">
-          <mxGeometry x="300" y="65" width="60" height="30" as="geometry" />
+        <mxCell id="vW3YrHtMuuvPs97gM53H-65" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="toRdQbsCwu9v9kk40iDd-144" source="toRdQbsCwu9v9kk40iDd-102" target="toRdQbsCwu9v9kk40iDd-115">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="toRdQbsCwu9v9kk40iDd-102" value="&lt;div style=&quot;font-size: 10px;&quot;&gt;&lt;span style=&quot;background-color: initial; font-size: 10px;&quot;&gt;生成服务单元计划&lt;/span&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=10;fillColor=#D4D4D4;" parent="toRdQbsCwu9v9kk40iDd-144" vertex="1">
           <mxGeometry x="190" y="10" width="120" height="40" as="geometry" />
@@ -108,9 +108,6 @@
         </mxCell>
         <mxCell id="toRdQbsCwu9v9kk40iDd-123" value="更新服务单元计划&lt;div style=&quot;font-size: 10px;&quot;&gt;传达到机器层&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=10;fillColor=#D4D4D4;" parent="toRdQbsCwu9v9kk40iDd-144" vertex="1">
           <mxGeometry x="190" y="130" width="120" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="toRdQbsCwu9v9kk40iDd-126" value="yes" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=10;" parent="toRdQbsCwu9v9kk40iDd-144" vertex="1">
-          <mxGeometry x="340" y="170" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="toRdQbsCwu9v9kk40iDd-76" value="停止" style="rounded=1;whiteSpace=wrap;html=1;fontSize=10;glass=0;strokeWidth=1;shadow=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="490" y="80" width="120" height="40" as="geometry" />
@@ -123,6 +120,9 @@
             <mxPoint x="250" y="120.14285714285711" as="targetPoint" />
             <mxPoint x="250" y="120" as="sourcePoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="vW3YrHtMuuvPs97gM53H-64" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="toRdQbsCwu9v9kk40iDd-71" target="toRdQbsCwu9v9kk40iDd-102">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
