@@ -82,7 +82,7 @@
           <mxGeometry x="264" y="200" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="vW3YrHtMuuvPs97gM53H-32" value="保持原计划" style="rounded=1;whiteSpace=wrap;html=1;fontSize=10;fillColor=#D4D4D4;" vertex="1" parent="toRdQbsCwu9v9kk40iDd-140">
-          <mxGeometry x="264" y="140" width="120" height="40" as="geometry" />
+          <mxGeometry x="60" y="220" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="vW3YrHtMuuvPs97gM53H-33" value="&lt;div&gt;以当前时间为新周期的开始并&lt;span style=&quot;background-color: initial;&quot;&gt;更新单元分配&lt;/span&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=10;fillColor=#D4D4D4;" vertex="1" parent="toRdQbsCwu9v9kk40iDd-140">
           <mxGeometry x="264" y="260" width="120" height="40" as="geometry" />
