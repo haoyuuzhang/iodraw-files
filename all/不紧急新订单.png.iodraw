@@ -21,13 +21,11 @@
         <mxCell id="toRdQbsCwu9v9kk40iDd-140" value="车间层" style="swimlane;startSize=30;horizontal=1;containerType=tree;direction=north;fontSize=10;swimlaneLine=1;collapsible=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="150" y="130" width="480" height="300" as="geometry" />
         </mxCell>
-        <mxCell id="toRdQbsCwu9v9kk40iDd-152" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" parent="toRdQbsCwu9v9kk40iDd-140" source="toRdQbsCwu9v9kk40iDd-73" edge="1">
+        <mxCell id="toRdQbsCwu9v9kk40iDd-152" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" parent="toRdQbsCwu9v9kk40iDd-140" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="310" y="90.20000000000005" as="targetPoint" />
+            <mxPoint x="340" y="90" as="sourcePoint" />
           </mxGeometry>
-        </mxCell>
-        <mxCell id="toRdQbsCwu9v9kk40iDd-73" value="停止准则" style="rhombus;whiteSpace=wrap;html=1;fontSize=10;fillColor=#F2F2F2;" parent="toRdQbsCwu9v9kk40iDd-140" vertex="1">
-          <mxGeometry x="340" y="70" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="toRdQbsCwu9v9kk40iDd-78" value="no" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=10;" parent="toRdQbsCwu9v9kk40iDd-140" vertex="1">
           <mxGeometry x="320" y="70" width="20" height="10" as="geometry" />
@@ -99,12 +97,6 @@
         <mxCell id="vW3YrHtMuuvPs97gM53H-57" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="toRdQbsCwu9v9kk40iDd-140" source="toRdQbsCwu9v9kk40iDd-62" target="toRdQbsCwu9v9kk40iDd-71">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="toRdQbsCwu9v9kk40iDd-76" value="停止" style="rounded=1;whiteSpace=wrap;html=1;fontSize=10;glass=0;strokeWidth=1;shadow=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="490" y="80" width="120" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="toRdQbsCwu9v9kk40iDd-154" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="toRdQbsCwu9v9kk40iDd-73" target="toRdQbsCwu9v9kk40iDd-76" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
         <mxCell id="vW3YrHtMuuvPs97gM53H-29" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="250" y="120.14285714285711" as="targetPoint" />
@@ -114,11 +106,6 @@
         <mxCell id="vW3YrHtMuuvPs97gM53H-64" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="toRdQbsCwu9v9kk40iDd-71">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="400" y="440" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="vW3YrHtMuuvPs97gM53H-70" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" target="toRdQbsCwu9v9kk40iDd-73">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="460" y="580" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="vW3YrHtMuuvPs97gM53H-73" value="扰动" style="rounded=1;whiteSpace=wrap;html=1;fontSize=10;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
