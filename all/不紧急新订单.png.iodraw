@@ -25,11 +25,6 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="vW3YrHtMuuvPs97gM53H-26" value="Text" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="toRdQbsCwu9v9kk40iDd-67">
-          <mxGeometry x="-0.2081" y="1" relative="1" as="geometry">
-            <mxPoint as="offset" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="vW3YrHtMuuvPs97gM53H-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="toRdQbsCwu9v9kk40iDd-9" target="toRdQbsCwu9v9kk40iDd-3">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="270" y="219.82758620689663" as="targetPoint" />
@@ -100,11 +95,13 @@
         <mxCell id="toRdQbsCwu9v9kk40iDd-78" value="no" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=10;" parent="toRdQbsCwu9v9kk40iDd-140" vertex="1">
           <mxGeometry x="320" y="60" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="toRdQbsCwu9v9kk40iDd-68" value="no" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=10;" parent="toRdQbsCwu9v9kk40iDd-140" vertex="1">
-          <mxGeometry x="160" y="120" width="60" height="30" as="geometry" />
-        </mxCell>
         <mxCell id="toRdQbsCwu9v9kk40iDd-79" value="yes" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=10;" parent="toRdQbsCwu9v9kk40iDd-140" vertex="1">
           <mxGeometry x="410" y="30" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="vW3YrHtMuuvPs97gM53H-27" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="toRdQbsCwu9v9kk40iDd-140" source="toRdQbsCwu9v9kk40iDd-3">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="100.04761904761904" y="210" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="toRdQbsCwu9v9kk40iDd-3" value="是否有新工件插入" style="rhombus;whiteSpace=wrap;html=1;fontSize=10;fillColor=#F2F2F2;" parent="toRdQbsCwu9v9kk40iDd-140" vertex="1">
           <mxGeometry x="40" y="130" width="120" height="40" as="geometry" />
