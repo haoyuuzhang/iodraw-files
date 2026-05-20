@@ -33,11 +33,6 @@
         <mxCell id="toRdQbsCwu9v9kk40iDd-9" value="时间步长[t,t+Δt]" style="rounded=1;whiteSpace=wrap;html=1;fontSize=10;fillColor=#D4D4D4;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="340" y="200" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="vW3YrHtMuuvPs97gM53H-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.75;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="toRdQbsCwu9v9kk40iDd-62" target="toRdQbsCwu9v9kk40iDd-63">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="250" y="350.1724137931035" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="toRdQbsCwu9v9kk40iDd-62" value="重新生成车间计划" style="rounded=1;whiteSpace=wrap;html=1;fontSize=10;fillColor=#D4D4D4;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="340" y="320" width="120" height="40" as="geometry" />
         </mxCell>
