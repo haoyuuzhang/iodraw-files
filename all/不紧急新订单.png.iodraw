@@ -78,7 +78,7 @@
         <mxCell id="vW3YrHtMuuvPs97gM53H-30" value="是否为紧急订单" style="rhombus;whiteSpace=wrap;html=1;fontSize=10;fillColor=#F2F2F2;" vertex="1" parent="toRdQbsCwu9v9kk40iDd-140">
           <mxGeometry x="40" y="70" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="toRdQbsCwu9v9kk40iDd-62" value="重调度" style="rounded=1;whiteSpace=wrap;html=1;fontSize=10;fillColor=#D4D4D4;" parent="toRdQbsCwu9v9kk40iDd-140" vertex="1">
+        <mxCell id="toRdQbsCwu9v9kk40iDd-62" value="重调度：更新单元分配" style="rounded=1;whiteSpace=wrap;html=1;fontSize=10;fillColor=#D4D4D4;" parent="toRdQbsCwu9v9kk40iDd-140" vertex="1">
           <mxGeometry x="240" y="150" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="toRdQbsCwu9v9kk40iDd-144" value="服务&#xa;单元层" style="swimlane;direction=north;startSize=30;fontSize=10;collapsible=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
