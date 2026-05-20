@@ -75,7 +75,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="vW3YrHtMuuvPs97gM53H-30" value="是否为紧急订单" style="rhombus;whiteSpace=wrap;html=1;fontSize=10;fillColor=#F2F2F2;" vertex="1" parent="toRdQbsCwu9v9kk40iDd-140">
-          <mxGeometry x="40" y="180" width="120" height="40" as="geometry" />
+          <mxGeometry x="40" y="130" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="toRdQbsCwu9v9kk40iDd-62" value="在新周期的开始更新单元分配" style="rounded=1;whiteSpace=wrap;html=1;fontSize=10;fillColor=#D4D4D4;" parent="toRdQbsCwu9v9kk40iDd-140" vertex="1">
           <mxGeometry x="40" y="250" width="120" height="40" as="geometry" />
@@ -90,7 +90,12 @@
           <mxGeometry x="190" y="70" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="vW3YrHtMuuvPs97gM53H-39" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="toRdQbsCwu9v9kk40iDd-140" source="vW3YrHtMuuvPs97gM53H-38" target="vW3YrHtMuuvPs97gM53H-32">
-          <mxGeometry relative="1" as="geometry" />
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="170" y="90" />
+              <mxPoint x="170" y="150" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="vW3YrHtMuuvPs97gM53H-38" value="是否有新订单" style="rhombus;whiteSpace=wrap;html=1;fontSize=10;fillColor=#F2F2F2;" vertex="1" parent="toRdQbsCwu9v9kk40iDd-140">
           <mxGeometry x="40" y="70" width="120" height="40" as="geometry" />
