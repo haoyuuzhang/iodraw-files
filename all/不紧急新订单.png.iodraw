@@ -24,13 +24,19 @@
         <mxCell id="vW3YrHtMuuvPs97gM53H-36" value="时间间隔" style="rounded=1;whiteSpace=wrap;html=1;fontSize=10;fillColor=#D4D4D4;" vertex="1" parent="toRdQbsCwu9v9kk40iDd-140">
           <mxGeometry x="190" y="70" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="vW3YrHtMuuvPs97gM53H-75" value="" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="toRdQbsCwu9v9kk40iDd-140">
-          <mxGeometry x="190" y="130" width="120" height="80" as="geometry" />
+        <mxCell id="vW3YrHtMuuvPs97gM53H-50" value="yes" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=10;" vertex="1" parent="toRdQbsCwu9v9kk40iDd-140">
+          <mxGeometry x="100" y="230" width="40" height="15" as="geometry" />
         </mxCell>
         <mxCell id="vW3YrHtMuuvPs97gM53H-29" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="250" y="120.14285714285711" as="targetPoint" />
             <mxPoint x="250" y="120" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="vW3YrHtMuuvPs97gM53H-64" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="400" y="420" as="sourcePoint" />
+            <mxPoint x="400" y="440" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="vW3YrHtMuuvPs97gM53H-73" value="扰动" style="rounded=1;whiteSpace=wrap;html=1;fontSize=10;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
