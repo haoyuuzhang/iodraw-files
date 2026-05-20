@@ -102,7 +102,7 @@
           <mxGeometry x="400" y="590" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="toRdQbsCwu9v9kk40iDd-140" value="车间层" style="swimlane;startSize=30;horizontal=1;containerType=tree;direction=north;fontSize=10;swimlaneLine=1;collapsible=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="150" y="130" width="480" height="360" as="geometry" />
+          <mxGeometry x="140" y="100" width="480" height="360" as="geometry" />
         </mxCell>
         <mxCell id="toRdQbsCwu9v9kk40iDd-112" value="no" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=10;" parent="toRdQbsCwu9v9kk40iDd-140" vertex="1">
           <mxGeometry x="140" y="240" width="60" height="30" as="geometry" />
@@ -129,9 +129,6 @@
         </mxCell>
         <mxCell id="toRdQbsCwu9v9kk40iDd-121" value="no" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=10;" parent="toRdQbsCwu9v9kk40iDd-144" vertex="1">
           <mxGeometry x="300" y="65" width="60" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="toRdQbsCwu9v9kk40iDd-146" value="机器层" style="swimlane;direction=north;startSize=30;fontSize=10;collapsible=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="150" y="670" width="480" height="60" as="geometry" />
         </mxCell>
         <mxCell id="toRdQbsCwu9v9kk40iDd-76" value="停止" style="rounded=1;whiteSpace=wrap;html=1;fontSize=10;glass=0;strokeWidth=1;shadow=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="490" y="80" width="120" height="40" as="geometry" />
