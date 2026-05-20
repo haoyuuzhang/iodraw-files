@@ -96,16 +96,6 @@
         <mxCell id="vW3YrHtMuuvPs97gM53H-94" value="停止" style="rounded=1;whiteSpace=wrap;html=1;fontSize=10;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="480" y="80" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="vW3YrHtMuuvPs97gM53H-96" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.221;entryY=-0.014;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="vW3YrHtMuuvPs97gM53H-33">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="259.45000000000005" y="369.15999999999997" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="vW3YrHtMuuvPs97gM53H-97" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.846;entryY=-0.035;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="vW3YrHtMuuvPs97gM53H-77">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="540.7" y="367.9" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
