@@ -84,10 +84,13 @@
           <mxGeometry x="40" y="190" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="vW3YrHtMuuvPs97gM53H-32" value="保持原计划" style="rounded=1;whiteSpace=wrap;html=1;fontSize=10;fillColor=#D4D4D4;" vertex="1" parent="toRdQbsCwu9v9kk40iDd-140">
-          <mxGeometry x="190" y="180" width="120" height="40" as="geometry" />
+          <mxGeometry x="190" y="190" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="vW3YrHtMuuvPs97gM53H-36" value="基于时间间隔的重调度" style="rounded=1;whiteSpace=wrap;html=1;fontSize=10;fillColor=#D4D4D4;" vertex="1" parent="toRdQbsCwu9v9kk40iDd-140">
           <mxGeometry x="190" y="70" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="vW3YrHtMuuvPs97gM53H-37" value="是否为紧急订单" style="rhombus;whiteSpace=wrap;html=1;fontSize=10;fillColor=#F2F2F2;" vertex="1" parent="toRdQbsCwu9v9kk40iDd-140">
+          <mxGeometry x="190" y="130" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="toRdQbsCwu9v9kk40iDd-144" value="服务&#xa;单元层" style="swimlane;direction=north;startSize=30;fontSize=10;collapsible=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="150" y="490" width="480" height="180" as="geometry" />
