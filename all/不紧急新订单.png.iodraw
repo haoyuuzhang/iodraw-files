@@ -24,6 +24,9 @@
         <mxCell id="vW3YrHtMuuvPs97gM53H-48" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="toRdQbsCwu9v9kk40iDd-140" source="vW3YrHtMuuvPs97gM53H-30" target="vW3YrHtMuuvPs97gM53H-33">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="vW3YrHtMuuvPs97gM53H-78" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="toRdQbsCwu9v9kk40iDd-140" source="vW3YrHtMuuvPs97gM53H-30" target="vW3YrHtMuuvPs97gM53H-77">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="vW3YrHtMuuvPs97gM53H-30" value="是否为紧急订单" style="rhombus;whiteSpace=wrap;html=1;fontSize=10;fillColor=#F2F2F2;" vertex="1" parent="toRdQbsCwu9v9kk40iDd-140">
           <mxGeometry x="180" y="185" width="120" height="40" as="geometry" />
         </mxCell>
@@ -47,14 +50,14 @@
         <mxCell id="vW3YrHtMuuvPs97gM53H-38" value="是否有新订单" style="rhombus;whiteSpace=wrap;html=1;fontSize=10;fillColor=#F2F2F2;" vertex="1" parent="toRdQbsCwu9v9kk40iDd-140">
           <mxGeometry x="180" y="130" width="120" height="40" as="geometry" />
         </mxCell>
+        <mxCell id="vW3YrHtMuuvPs97gM53H-77" value="更新单元分配" style="rounded=1;whiteSpace=wrap;html=1;fontSize=10;fillColor=#D4D4D4;" vertex="1" parent="toRdQbsCwu9v9kk40iDd-140">
+          <mxGeometry x="320" y="185" width="120" height="40" as="geometry" />
+        </mxCell>
         <mxCell id="vW3YrHtMuuvPs97gM53H-29" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="250" y="120.14285714285711" as="targetPoint" />
             <mxPoint x="250" y="120" as="sourcePoint" />
           </mxGeometry>
-        </mxCell>
-        <mxCell id="vW3YrHtMuuvPs97gM53H-77" value="&lt;div&gt;以当前时间为新周期的开始并&lt;span style=&quot;background-color: initial;&quot;&gt;更新单元分配&lt;/span&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=10;fillColor=#D4D4D4;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="350" y="380" width="120" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
