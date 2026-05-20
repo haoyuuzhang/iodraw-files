@@ -77,6 +77,9 @@
         <mxCell id="toRdQbsCwu9v9kk40iDd-62" value="在新周期的开始更新单元分配" style="rounded=1;whiteSpace=wrap;html=1;fontSize=10;fillColor=#D4D4D4;" parent="toRdQbsCwu9v9kk40iDd-140" vertex="1">
           <mxGeometry x="190" y="190" width="120" height="40" as="geometry" />
         </mxCell>
+        <mxCell id="vW3YrHtMuuvPs97gM53H-61" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="toRdQbsCwu9v9kk40iDd-140" source="vW3YrHtMuuvPs97gM53H-33" target="toRdQbsCwu9v9kk40iDd-71">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="vW3YrHtMuuvPs97gM53H-33" value="&lt;div&gt;以当前时间为新周期的开始并&lt;span style=&quot;background-color: initial;&quot;&gt;更新单元分配&lt;/span&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=10;fillColor=#D4D4D4;" vertex="1" parent="toRdQbsCwu9v9kk40iDd-140">
           <mxGeometry x="40" y="250" width="120" height="40" as="geometry" />
         </mxCell>
@@ -96,6 +99,9 @@
         </mxCell>
         <mxCell id="vW3YrHtMuuvPs97gM53H-38" value="是否有新订单" style="rhombus;whiteSpace=wrap;html=1;fontSize=10;fillColor=#F2F2F2;" vertex="1" parent="toRdQbsCwu9v9kk40iDd-140">
           <mxGeometry x="40" y="130" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="vW3YrHtMuuvPs97gM53H-60" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="toRdQbsCwu9v9kk40iDd-140" source="vW3YrHtMuuvPs97gM53H-45" target="toRdQbsCwu9v9kk40iDd-71">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="vW3YrHtMuuvPs97gM53H-45" value="保持原计划" style="rounded=1;whiteSpace=wrap;html=1;fontSize=10;fillColor=#D4D4D4;" vertex="1" parent="toRdQbsCwu9v9kk40iDd-140">
           <mxGeometry x="190" y="130" width="120" height="40" as="geometry" />
@@ -119,7 +125,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="toRdQbsCwu9v9kk40iDd-144" value="服务&#xa;单元层" style="swimlane;direction=north;startSize=30;fontSize=10;collapsible=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="150" y="490" width="480" height="180" as="geometry" />
+          <mxGeometry x="150" y="430" width="480" height="240" as="geometry" />
         </mxCell>
         <mxCell id="toRdQbsCwu9v9kk40iDd-121" value="no" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=10;" parent="toRdQbsCwu9v9kk40iDd-144" vertex="1">
           <mxGeometry x="300" y="65" width="60" height="30" as="geometry" />
