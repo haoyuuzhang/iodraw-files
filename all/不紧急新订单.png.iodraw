@@ -89,6 +89,11 @@
         <mxCell id="vW3YrHtMuuvPs97gM53H-40" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="toRdQbsCwu9v9kk40iDd-140" source="vW3YrHtMuuvPs97gM53H-38" target="vW3YrHtMuuvPs97gM53H-30">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="vW3YrHtMuuvPs97gM53H-43" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="toRdQbsCwu9v9kk40iDd-140" source="vW3YrHtMuuvPs97gM53H-38">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="170" y="120" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="vW3YrHtMuuvPs97gM53H-38" value="是否有新订单" style="rhombus;whiteSpace=wrap;html=1;fontSize=10;fillColor=#F2F2F2;" vertex="1" parent="toRdQbsCwu9v9kk40iDd-140">
           <mxGeometry x="40" y="70" width="120" height="40" as="geometry" />
         </mxCell>
