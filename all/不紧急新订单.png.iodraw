@@ -103,6 +103,9 @@
         <mxCell id="toRdQbsCwu9v9kk40iDd-102" value="&lt;div style=&quot;font-size: 10px;&quot;&gt;&lt;span style=&quot;background-color: initial; font-size: 10px;&quot;&gt;生成服务单元计划&lt;/span&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=10;fillColor=#D4D4D4;" parent="toRdQbsCwu9v9kk40iDd-144" vertex="1">
           <mxGeometry x="190" y="10" width="120" height="40" as="geometry" />
         </mxCell>
+        <mxCell id="vW3YrHtMuuvPs97gM53H-66" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="toRdQbsCwu9v9kk40iDd-144" source="toRdQbsCwu9v9kk40iDd-115" target="toRdQbsCwu9v9kk40iDd-123">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="toRdQbsCwu9v9kk40iDd-115" value="计划是否可行" style="rhombus;whiteSpace=wrap;html=1;fontSize=10;fillColor=#F2F2F2;" parent="toRdQbsCwu9v9kk40iDd-144" vertex="1">
           <mxGeometry x="190" y="70" width="120" height="40" as="geometry" />
         </mxCell>
@@ -122,6 +125,9 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="vW3YrHtMuuvPs97gM53H-64" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="toRdQbsCwu9v9kk40iDd-71" target="toRdQbsCwu9v9kk40iDd-102">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="vW3YrHtMuuvPs97gM53H-67" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="toRdQbsCwu9v9kk40iDd-115" target="toRdQbsCwu9v9kk40iDd-73">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
