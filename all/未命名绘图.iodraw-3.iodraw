@@ -31,7 +31,7 @@
         <mxCell id="RF_eCHKChmmi52Hkfu8h-6" value="模块四：模型训练与预测" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="160" y="400" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="RF_eCHKChmmi52Hkfu8h-9" value="&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;模块一：数据预处理&lt;/span&gt;&lt;/div&gt;&lt;div&gt;内存优化&lt;/div&gt;&lt;div&gt;缺失值处理&lt;/div&gt;&lt;div&gt;LabelEncoder编码&lt;/div&gt;&lt;div&gt;时间字段格式转换&lt;/div&gt;" style="shape=ext;double=1;rounded=0;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="RF_eCHKChmmi52Hkfu8h-9" value="&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&lt;b&gt;模块一：数据预处理&lt;/b&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;内存优化&lt;/div&gt;&lt;div&gt;缺失值处理&lt;/div&gt;&lt;div&gt;LabelEncoder编码&lt;/div&gt;&lt;div&gt;时间字段格式转换&lt;/div&gt;" style="shape=ext;double=1;rounded=0;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="-110" y="140" width="180" height="80" as="geometry" />
         </mxCell>
       </root>
