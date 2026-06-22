@@ -35,11 +35,6 @@
         <mxCell id="vW3YrHtMuuvPs97gM53H-38" value="是否有新订单" style="rhombus;whiteSpace=wrap;html=1;fontSize=10;fillColor=#F2F2F2;" parent="toRdQbsCwu9v9kk40iDd-140" vertex="1">
           <mxGeometry x="180" y="130" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="vW3YrHtMuuvPs97gM53H-82" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" parent="toRdQbsCwu9v9kk40iDd-140" source="vW3YrHtMuuvPs97gM53H-77" target="vW3YrHtMuuvPs97gM53H-91" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="380" y="170" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="vW3YrHtMuuvPs97gM53H-77" value="更新服务单元分配" style="rounded=1;whiteSpace=wrap;html=1;fontSize=10;fillColor=#D4D4D4;" parent="toRdQbsCwu9v9kk40iDd-140" vertex="1">
           <mxGeometry x="310" y="185" width="120" height="40" as="geometry" />
         </mxCell>
