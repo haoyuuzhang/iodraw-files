@@ -37,7 +37,7 @@
             <mxPoint x="310" y="30.14285714285711" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="Mj-roduxuQckgtowwNDV-3" value="从机器层获取&lt;div&gt;加工时间变更&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=10;glass=0;strokeWidth=1;shadow=0;" parent="toRdQbsCwu9v9kk40iDd-144" vertex="1">
+        <mxCell id="Mj-roduxuQckgtowwNDV-3" value="从机器层获取&lt;div&gt;加工状态变更&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=10;glass=0;strokeWidth=1;shadow=0;" parent="toRdQbsCwu9v9kk40iDd-144" vertex="1">
           <mxGeometry x="340" y="10" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="Mj-roduxuQckgtowwNDV-5" value="上报车间层全局处理" style="rounded=1;whiteSpace=wrap;html=1;fontSize=10;glass=0;strokeWidth=1;shadow=0;" parent="toRdQbsCwu9v9kk40iDd-144" vertex="1">
