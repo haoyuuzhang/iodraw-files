@@ -36,10 +36,10 @@
           <mxGeometry x="180" y="130" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="vW3YrHtMuuvPs97gM53H-77" value="更新服务单元分配" style="rounded=1;whiteSpace=wrap;html=1;fontSize=10;fillColor=#D4D4D4;" parent="toRdQbsCwu9v9kk40iDd-140" vertex="1">
-          <mxGeometry x="310" y="185" width="120" height="40" as="geometry" />
+          <mxGeometry x="180" y="185" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="vW3YrHtMuuvPs97gM53H-83" value="yes" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="toRdQbsCwu9v9kk40iDd-140" vertex="1">
-          <mxGeometry x="240" y="175" width="30" height="10" as="geometry" />
+          <mxGeometry x="250" y="170" width="30" height="10" as="geometry" />
         </mxCell>
         <mxCell id="vW3YrHtMuuvPs97gM53H-87" value="no" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="toRdQbsCwu9v9kk40iDd-140" vertex="1">
           <mxGeometry x="310" y="130" width="20" height="10" as="geometry" />
